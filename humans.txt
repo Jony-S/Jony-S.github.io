@@ -7,8 +7,9 @@
 	Contact:jk222zi@student.lnu.se
 	From:Sweden, Malmoe
 
+/* THANKS */
 
-
+	Name: name or url
 
 /* SITE */
 	Last update:2019/11/22
