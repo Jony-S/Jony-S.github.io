@@ -1,0 +1,17 @@
+/* TEAM */	
+    Chef:Jony Kiiskinen
+	Contact:jk222zi@student.lnu.se
+	From:Sweden, Malmoe
+
+    Web designer:Jony Kiiskinen
+	Contact:jk222zi@student.lnu.se
+	From:Sweden, Malmoe
+
+
+
+
+/* SITE */
+	Last update:2019/11/22
+	Language:Swedish / English / Finnish
+	Doctype:HTML5
+	IDE: Visual Studio Code
