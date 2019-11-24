@@ -111,8 +111,9 @@ a {
   }
 
   &:hover {
-    color: $text-color;
     text-decoration: underline;
+    text-decoration-color: #111;
+    font-weight: bold;
   }
 
   .social-media-list &:hover {

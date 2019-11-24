@@ -6,4 +6,9 @@ layout: home
 ---
 
 
-Var hamnar nu detta då?
+## Welcome to my hut!
+
+Below you will find my posts of various subjects, please add a comment if you wish.
+
+Also take time to learn more "About me" :) 
+

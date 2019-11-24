@@ -1,10 +1,6 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta property="og:image" content="https://free-images.com/lg/6cf5/finland_finnish_flag_siniristilippu.jpg">
-  <meta property="og:title" content="Jony">
-  <meta property="og:type" content="blog">
-  <meta property="og:url" content="https://localhost:4000">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
@@ -12,4 +8,5 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
+  {%- include og.html -%}
 </head>

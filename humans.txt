@@ -9,7 +9,7 @@
 
 /* THANKS */
 
-	Name: name or url
+	Name:LNU, https://lnu.se/
 
 /* SITE */
 	Last update:2019/11/22
