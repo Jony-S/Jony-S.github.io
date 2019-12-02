@@ -7,4 +7,4 @@ categories: jekyll update
 
 # Tadaa!
 Congratz to me!
-Hopefully you will enjoy plenty more of me, as I will.
+Hopefully you will enjoy plenty more of me, as me.

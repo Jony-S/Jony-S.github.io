@@ -19,7 +19,7 @@ permalink: /about/
 
     ... I'm a sports geek. Mostly soccer and hockey, but name a sport and I digest it.  
     This part of my life has been set on hold for now, it had to be :)   
-    Since I'm trying to make some kind of a presentation about me, Suomen jääkiekkomaajoukkue, sums it up pretty nicely. Both my parents are from Finland, hence, my relation to the Finnish national team in Hockey is what another would call love.  
+    Since I'm trying to make some kind of a presentation about me, Suomen jääkiekkomaajoukkue, sums it up pretty nicely. Both my parents are from Finland, hence, my relation to the Finnish national team in Hockey is what another one would call love.  
 
     Now you hopefully learned some new Finnish words :)
 

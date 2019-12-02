@@ -5,7 +5,7 @@ date:   2019-11-20 09:59:36 -0600
 categories: jekyll update
 ---
 
-#### What do you think of pre-compiling your CSS?
+### What do you think of pre-compiling your CSS?
 
 * Thoughts, techniques and pros  
 
@@ -25,9 +25,9 @@ Other pros with CSS pre-processora are the ability to define mixins and mathemat
 Debugging is harder with CSS pre-processors, due to incorrect match with code lines.  
 
 As techniques develop, the use of CSS pre-processors is fading out. New HTTP protocols manages several separate files better than one complied file.   
-New implemented teqchnique in CSS also accelerates the fade out of CSS pre-processors.
+New implemented teqchnique in CSS also accelerates the fade out of CSS pre-processors.  
 
-#### What type of projects are static site generators suitable for?
+### What type of projects are static site generators suitable for?
 
 They are suitable for a more simple type of projects. Projects/sites with the intention to present information to the user/reader. Static sites are stored as simple files (html, css, templates) which are served by a web server, via HTTP request and back to the browser. 
 A good example is the blog we are currently creating, with information about me and blog posts to read for whom finds my page on the web.
@@ -36,28 +36,29 @@ These sites differentiate from dynamic site, amongst other things, in the dynami
 
 Personally I enjoyed the creation of ssg, especially with the support for markdown language.
 
-#### What is robots.txt and how have you configured it for your site?
+### What is robots.txt and how have you configured it for your site?
 
 It is a text file placed on a web server, that informs webcrawlers what files to access.
 Or if they should access at all or everything.
 
-I have allowed full access, with the exception for two folders. 
+I have allowed full access, with the exception for two folders.  
 
-#### What is humans.txt and how have you configured it for your site?
+### What is humans.txt and how have you configured it for your site?
 
 This is also a text file, that is added to the project for knowing the people behind the website.
 I have added myself as chef of this project with thanks to LNU for your support.
 
-#### How did you implement comments to blog posts?
+### How did you implement comments to blog posts?
 
+I used a tutorial on Youtube as a guide "How to add Disqus comments to Jekyll Blog - Tutorial 9"
+First I registered at Disqus and then copied the given code in the bottom of src/_layouts/_post.html. Additionally I added 'comments: true', on line 3 in the same module.
 
-
-#### What is Open graph and how do you make use of it?
+### What is Open graph and how do you make use of it?
 
 2010 Facebook created Open graph, which is a protocol that allows web pages to be represented as items in a social graph.
 The purpose is to optimize links, i.e. highlight the main content of your website as well as control what you want to be displayed.
 
-By adding relevant information, such as image, title, url and type, you have higher chance to interest users and clicking to your website.
+By adding relevant information, such as image, title, url and type, you have higher chance to interest users clicking to your website.
 
 
 
